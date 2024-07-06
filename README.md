@@ -1,0 +1,2 @@
+# LLM_PROJECT
+LLM_PROJECT_MODULE1 of Nguyễn Đức Khang - AIO2024
